@@ -1,0 +1,155 @@
+{
+  "videos": {
+    "7692812168890305814": {
+      "topic": "Barebells lottar ut tre lådor proteinbars med smaken Cinnamon Bun till tre vinnare. En glad programledare presenterar priset och förklarar hur man deltar.",
+      "format": "Tävling",
+      "hook": "En entusiastisk kvinna mellan två höga staplar orange proteinbar-lådor lyfter händerna och utropar en giveaway redan under de första sekunderna.",
+      "why": "Visningarna, 30 300, ligger bara strax över kontots median på 26 200, men engagemanget når 18,4 % mot normala 4,3 %. Det beror nästan helt på tävlingsmekaniken. Kravet att tagga minst två vänner ger 1 975 kommentarer och driver delningar, medan like- och följkraven lyfter interaktionen utan att räckvidden ökar i samma takt.",
+      "drivers": [
+        "Tävling där man ska gilla, tagga två vänner och följa kontot ger många kommentarer och delningar",
+        "Tydligt och konkret pris i en populär smak (Cinnamon Bun), visat med produktstaplar och grafik",
+        "Kort format på 16 sekunder där reglerna förklaras enkelt och snabbt"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:37:18.510Z",
+      "model": "claude-opus-5-5"
+    },
+    "7694221137944972566": {
+      "topic": "Redhead visar upp en rosa chipspåse med kebabsåssmak framför Munksjön i Jönköping, med en skämtsam text om skönheten i att slippa köa på en sample sale.",
+      "format": "Produktnyhet/meme",
+      "hook": "Ett lugnt stadsvyfoto med en igenkännbar text om sample sale-köer väcker nyfikenhet innan chipspåsen dyker upp efter två sekunder.",
+      "why": "Videon presterade inte bättre i räckvidd: 14 600 visningar är bara cirka 12 % av kontots median på 121 150. Däremot är engagemanget högre än normalt, 10,6 % mot 7,7 %, och 207 delningar är många för den räckvidden. Den korta, igenkännbara skämtvinkeln om sample sale-köer kopplad till en ny smak och en lokal plats (#munksjön) verkar ha fått de som såg videon att dela den vidare, även om algoritmen inte spred den brett.",
+      "drivers": [
+        "Igenkännbart skämt om sample sale-köer som lockar till delning",
+        "Udda ny smak (kebabsås) i iögonfallande rosa förpackning",
+        "Kort format på 9 s med lokal förankring i Jönköping"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:37:29.728Z",
+      "model": "claude-opus-5-5"
+    },
+    "7692714605637946646": {
+      "topic": "Videon verkar handla om en kebabrulle, framställd med meme-slangen \"skibidi\". Beskrivningen saknas, så analysen bygger bara på videotexten och siffrorna.",
+      "format": "Okänt (troligen mat/meme)",
+      "hook": "Det går inte att avgöra utan beskrivning, men texten \"skibidi kebabrulle 😍\" signalerar ungdomlig meme-humor kring mat.",
+      "why": "Videon fick 136 400 visningar mot kontots median på 121 150, alltså cirka 13 % över den normala nivån. Engagemanget på 7,8 % ligger i nivå med medianen på 7,7 %, så det rör sig om en normal prestation snarare än ett genomslag. Delningarna (1 205, nära 0,9 % av visningarna) är relativt många jämfört med kommentarerna (77), vilket tyder på att innehållet främst skickas vidare till vänner. Längden anges som 0 s, vilket troligen är ett datafel.",
+      "drivers": [
+        "Meme-slang (\"skibidi\") som riktar sig till en ung publik",
+        "Mat-tema med kebabrulle som är lätt att känna igen",
+        "Hög delningsbenägenhet i förhållande till kommentarerna"
+      ],
+      "handle": "redheadsverige",
+      "described": false,
+      "analyzedAt": "2026-10-08T21:37:39.393Z",
+      "model": "claude-opus-5-5"
+    },
+    "7692837471691885846": {
+      "topic": "En kvinna utklädd till kock firar Kanelbullens dag den 4 oktober genom att köra runt i stan och bjuda förbipasserande på bullar från en bricka. Hashtaggen säger kardemummabulle medan beskrivningen säger kanelbullar.",
+      "format": "Gatuöverraskning / Temadag",
+      "hook": "En fråga i texten och direkt i bild, ”Vet ni vilken dag det är idag?”, där en kock med en bricka bullar berättar att hon ska överraska folk i stan.",
+      "why": "Videon nådde inte längre än vanligt. Med 17 200 visningar ligger den ungefär en tredjedel under kontots median på 26 200. Däremot är engagemanget 7,2 % mot normala 4,3 %, alltså cirka 1,7 gånger högre, med 41 delningar och 36 sparade. Det tyder på att tittarna kände igen den svenska temadagen och uppskattade de glada, äkta reaktionerna när främlingar får bullar, även om algoritmen inte spred videon brett.",
+      "drivers": [
+        "Igenkänning av Kanelbullens dag som svensk tradition",
+        "Spontana, positiva reaktioner från riktiga förbipasserande",
+        "Lättsam kockkaraktär som sjunger om bullar och ger videon personlighet"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:37:49.537Z",
+      "model": "claude-opus-5-5"
+    },
+    "7692085254194007318": {
+      "topic": "En kort produktvideo där Red Head visar en rosa chipspåse med smaken cheeseburger och kebabsås och sedan avslöjar en lång rad likadana påsar på bordet.",
+      "format": "Produktnyhet",
+      "hook": "Första bilden visar den färgstarka rosa påsen med on-screen-text om glädjen över att ha hittat smaken cheeseburger med kebabsås, ackompanjerad av en entusiastisk berättarröst.",
+      "why": "Videon fick cirka 229 000 visningar, nästan dubbelt så mycket som kontots median på 121 000, medan engagemanget (7,1 %) låg något under normala 7,7 %. Den udda smakkombinationen och kameraåkningen som avslöjar en hel rad påsar ger en snabb överraskning, och på bara 6 sekunder blir videon lätt att se klart och se om, vilket troligen gynnade spridningen. De många delningarna (3 421) tyder på att tittare skickade den vidare till vänner, sannolikt för att tipsa om eller reagera på den udda smaken.",
+      "drivers": [
+        "Udda smak som väcker nyfikenhet och delningslust",
+        "Visuell överraskning när kameran avslöjar raden av påsar",
+        "Mycket kort format som uppmuntrar omtittningar"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:38:03.134Z",
+      "model": "claude-opus-5-5"
+    },
+    "7693186651756989718": {
+      "topic": "Gatuintervju där Daphne Törnqvist med en Barebells-bar i handen låter äldre personer i en park och på stan gissa vad hon jobbar med.",
+      "format": "Gatuintervju / gissningslek med kreatör",
+      "hook": "Direkt fråga i bild med stora textöverlägg: vad tror den äldre generationen att hon jobbar med?",
+      "why": "Videon fick klart färre visningar än kontots median (14 800 mot 26 200), så den nådde inte bredare. Engagemanget var däremot högre än normalt (5,6 % mot 4,3 %), främst genom likes: gissningsupplägget och de äldres charmiga, ibland träffande svar (\"säljer bars\") skapar värme och igenkänning hos dem som ser den. Kommentarer, delningar och sparningar är låga, så frågan i texten lockade inte till mycket diskussion.",
+      "drivers": [
+        "Gissningslek som får tittaren att själv gissa",
+        "Charmig generationskrock med äldre intervjupersoner",
+        "Känd kreatör (Daphne Törnqvist) taggad i texten"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:38:09.889Z",
+      "model": "claude-opus-5-5"
+    },
+    "7692650866087660831": {
+      "topic": "Kreatören står utomhus på kvällen och försvarar Seattle mot all onödig kritik, och visar sedan stadens upplysta skyline med skyskrapor, hamnen och pariserhjulet.",
+      "format": "Lokal stadsvy / åsikt",
+      "hook": "Han tittar upp, ler och säger direkt att Seattle får mycket onödigt hat men att skylinen är svår att slå, vilket lockar både lokalpatrioter och kritiker.",
+      "why": "Videon fick cirka 3,2 gånger kontots medianvisningar (6 628 mot 2 097) och högre engagemang (5,5 % mot 4,2 %). Att försvara en stad som ofta får kritik ger igenkänning och stolthet hos lokala tittare och bjuder in till att hålla med eller säga emot, vilket syns i 28 kommentarer. Det korta formatet på 19 sekunder med en snygg nattvy i mitten gör att många tittar klart, och lokala hashtaggar som #seattletiktok hjälper videon att nå rätt publik.",
+      "drivers": [
+        "Lokal stolthet och en lätt kontroversiell åsikt som väcker kommentarer",
+        "Visuellt tilltalande nattvy av skylinen",
+        "Kort längd och lokala hashtaggar som träffar Seattle-publiken"
+      ],
+      "handle": "braydoneats",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:38:17.810Z",
+      "model": "claude-opus-5-5"
+    },
+    "7692434745069751574": {
+      "topic": "Del två i Barebells serie där en anställd tränar med en ambassadör, här @Taib Sisic, som visar sitt återhämtningspass dagen efter match: cykel, stretch, chins, situps och planka, med Barebells-burkar i handen.",
+      "format": "Ambassadörssamarbete / träningsserie",
+      "hook": "Videon öppnar direkt med ambassadören och programledaren på gymmet med burkar i händerna, rubriken ”working out with part two” och ett löfte om att få se en atlets återhämtningsrutin efter match.",
+      "why": "Videon presterade bara något över kontots normala nivå: 28 200 visningar mot medianen 26 200, cirka 8 % mer, med samma engagement på 4,3 %. Det lilla lyftet kommer troligen från ambassadörens dragningskraft och den igenkännbara insynen i hur en idrottare faktiskt återhämtar sig. Den avslappnade kemin med skratt, det misslyckade chinsförsöket och high fives gör att man orkar titta trots 101 sekunders längd. Att det är en fortsättning (pt. 2) kan också ge en återkommande publik, medan få delningar (16) och sparningar (49) tyder på att innehållet underhåller mer än det sprids.",
+      "drivers": [
+        "Ambassadör/idrottare ger insyn i en riktig återhämtningsrutin efter match",
+        "Lekfull kemi och självironiska misslyckanden, till exempel chinsförsöket",
+        "Serieformat (pt. 2) som bygger återkommande tittande"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:38:32.248Z",
+      "model": "claude-opus-5-5"
+    },
+    "7693931934396796182": {
+      "topic": "Del tre i Barebells serie där en ambassadör tränar med en gäst, här Moa Häll Eriksson som visar sin stretchrutin före passet. Barebells-burkarna syns och de skålar mitt i videon.",
+      "format": "Ambassadörssamarbete / träningsserie",
+      "hook": "Två kvinnor i matchande vita träningskläder med burkar i handen presenterar sig, och en text visar att det är del tre av en serie med ambassadörerna.",
+      "why": "Videon presterade inte bättre än normalt: 14 400 visningar är ungefär 55 % av kontots median på 26 200, medan engagemanget (4,2 %) ligger i nivå med medianen på 4,3 %. Den långsamma starten med presentationer och en lugn stretchrutin på nästan en minut ger troligen svag räckvidd, men de som ser den engagerar sig som vanligt. Det humoristiska inslaget med olika rörlighet och 31 sparningar tyder på visst nyttovärde, men det räcker inte för att lyfta spridningen.",
+      "drivers": [
+        "Ambassadör och känt namn ger igenkänning men inte extra räckvidd",
+        "Igenkännbar humor kring dålig rörlighet håller engagemanget på normal nivå",
+        "Lång och lugn intro på 12 sekunder utan tydlig krok begränsar visningarna"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:38:40.929Z",
+      "model": "claude-opus-5-5"
+    },
+    "7692104914692099350": {
+      "topic": "Gatuintervjuer där en reporter i svensk landslagströja frågar unga män om deras tips inför matchen Bosnien–Sverige. Intervjupersonerna gissar resultat och målskyttar. Videon görs i samarbete med @Taib Sisic.",
+      "format": "Gatuintervju",
+      "hook": "Direkt i första bilden syns en intervjuare i gul-blå landslagströja med mikrofon och en skärmtext som frågar hur det går mellan Bosnien och Sverige.",
+      "why": "Videon presterade inte bättre än kontots vanliga nivå. Den fick 25 400 visningar mot medianen 26 200, cirka 3 % under, och engagemanget på 3,5 % ligger under medianen på 4,3 %. Det aktuella matchämnet, frågan i videotexten och samarbetet med Taib Sisic höll räckvidden på normal nivå. Enligt beskrivningen syns dock inte Barebells produkt, och de upprepade resultattipsen ger lite variation, vilket kan förklara det svagare engagemanget.",
+      "drivers": [
+        "Aktuellt ämne: landskamp samma kväll",
+        "Samarbete med kreatören Taib Sisic",
+        "Direkt fråga till tittarna som bjuder in till kommentarer"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-08T21:38:50.951Z",
+      "model": "claude-opus-5-5"
+    }
+  },
+  "updatedAt": "2026-10-08T21:38:50.951Z"
+}
