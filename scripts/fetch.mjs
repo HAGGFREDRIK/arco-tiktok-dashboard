@@ -1,4 +1,4 @@
-// Kör clockworks/tiktok-scraper för alla konton i config/accounts.json
+// Kör clockworks/tiktok-scraper för alla kunders konkurrenter i config/clients.json
 // och sparar en normaliserad lista i site/data/videos.json.
 // Kräver APIFY_TOKEN i miljön (lokalt via .env, i GitHub Actions som secret).
 
@@ -13,9 +13,12 @@ if (!token) {
   process.exit(1);
 }
 
-const config = JSON.parse(await readFile(new URL('../config/accounts.json', import.meta.url)));
-const handles = config.accounts.map((a) => a.handle);
-const groupOf = Object.fromEntries(config.accounts.map((a) => [a.handle.toLowerCase(), a.group]));
+const config = JSON.parse(await readFile(new URL('../config/clients.json', import.meta.url)));
+const handles = [...new Set(config.clients.flatMap((c) => c.competitors.map((h) => h.toLowerCase())))];
+if (!handles.length) {
+  console.log('Inga konkurrenter inlagda för någon kund, ingen hämtning.');
+  process.exit(0);
+}
 
 const input = {
   profiles: handles,
@@ -65,14 +68,13 @@ const videos = items
     const comments = v.commentCount ?? 0;
     const shares = v.shareCount ?? 0;
     const saves = v.collectCount ?? 0;
-    const handle = v.authorMeta.name;
+    const handle = v.authorMeta.name?.toLowerCase();
     return {
       id: v.id,
       handle,
       author: v.authorMeta.nickName || handle,
       avatar: v.authorMeta.avatar ?? null,
       followers: v.authorMeta.fans ?? null,
-      group: groupOf[handle?.toLowerCase()] ?? 'Övrigt',
       url: v.webVideoUrl,
       text: v.text ?? '',
       posted: v.createTimeISO,

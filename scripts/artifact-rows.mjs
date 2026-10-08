@@ -1,6 +1,6 @@
-// Bygger de tre datafilerna som dashboard-artifacten läser, ur site/data/.
+// Bygger de fyra datafilerna som dashboard-artifacten läser, ur site/data/.
 // Användning: node scripts/artifact-rows.mjs <utkatalog>
-// Skriver tiktok_videos.json, tiktok_insights.json och tiktok_thumbs.json och skriver ut en sammanfattning.
+// Skriver tiktok_videos.json, tiktok_insights.json, tiktok_thumbs.json och tiktok_clients.json och skriver ut en sammanfattning.
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -16,6 +16,8 @@ const read = (name) => readFile(new URL(`../site/data/${name}`, import.meta.url)
 const d = await read('videos.json');
 const ins = await read('insights.json').catch(() => ({ videos: {} }));
 const th = await read('thumbs.json').catch(() => ({ thumbs: {} }));
+const { clients } = JSON.parse(await readFile(new URL('../config/clients.json', import.meta.url)));
+const clientRows = clients.flatMap((c) => (c.competitors.length ? c.competitors.map((h) => ({ client: c.name, handle: h.toLowerCase() })) : [{ client: c.name, handle: '' }]));
 
 const ids = new Set(d.videos.map((v) => String(v.id)));
 const videos = d.videos.map((v) => ({
@@ -34,6 +36,7 @@ const thumbs = Object.entries(th.thumbs).filter(([id]) => ids.has(String(id))).m
 await writeFile(join(out, 'tiktok_videos.json'), JSON.stringify(videos));
 await writeFile(join(out, 'tiktok_insights.json'), JSON.stringify(insights));
 await writeFile(join(out, 'tiktok_thumbs.json'), JSON.stringify(thumbs));
+await writeFile(join(out, 'tiktok_clients.json'), JSON.stringify(clientRows));
 
 const top = [...videos].filter((v) => Date.parse(v.posted) >= Date.parse(d.fetchedAt) - 7 * 864e5 && v.views >= 5000).sort((a, b) => b.er - a.er)[0];
 console.log(JSON.stringify({
@@ -42,5 +45,6 @@ console.log(JSON.stringify({
   accounts: [...new Set(videos.map((v) => v.handle))],
   insights: insights.length,
   thumbs: thumbs.length,
+  clients: clients.map((c) => `${c.name} (${c.competitors.length})`),
   topWeek: top && { handle: top.handle, er: top.er, views: top.views, text: top.text.slice(0, 80) },
 }, null, 2));

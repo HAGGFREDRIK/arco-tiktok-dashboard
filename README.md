@@ -3,7 +3,7 @@
 Topp 10 TikTok-videor per konkurrentkonto, rankade på engagement rate
 (likes + kommentarer + delningar) / visningar, för senaste 7 eller 30 dagarna.
 
-- `config/accounts.json` konton som bevakas, hur långt bakåt och max antal videor per konto
+- `config/clients.json` ARCO:s kunder med content planner och deras konkurrenter (max 10 per kund). Ändras via Actions → Ändra konkurrenter
 - `scripts/fetch.mjs` kör Apify-actorn `clockworks/tiktok-scraper` och sparar `site/data/videos.json`
 - `site/index.html` dashboarden, statisk, läser JSON-filen
 - `.github/workflows/fetch.yml` hämtar ny data varje måndag och committar den

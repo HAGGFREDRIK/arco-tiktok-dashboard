@@ -1,0 +1,82 @@
+{
+  "daysBack": 30,
+  "maxVideosPerAccount": 150,
+  "maxCompetitors": 10,
+  "clients": [
+    {
+      "name": "ACO",
+      "asanaProject": "1215110516067272",
+      "competitors": []
+    },
+    {
+      "name": "Elexir Pharma",
+      "asanaProject": "1213796039257631",
+      "competitors": []
+    },
+    {
+      "name": "Gorilla",
+      "asanaProject": "1209556577453220",
+      "competitors": []
+    },
+    {
+      "name": "Natural Cycles",
+      "asanaProject": "1209131051210945",
+      "competitors": []
+    },
+    {
+      "name": "Natural Cycles UK",
+      "asanaProject": "1212729960829210",
+      "competitors": []
+    },
+    {
+      "name": "Naturkompaniet",
+      "asanaProject": "1209126449422058",
+      "competitors": []
+    },
+    {
+      "name": "PROfeel",
+      "asanaProject": "1214225570621975",
+      "competitors": [
+        "redheadsverige",
+        "arlaprotein",
+        "barebells",
+        "braydoneats"
+      ]
+    },
+    {
+      "name": "PROfeel UGC",
+      "asanaProject": "1218588020878446",
+      "competitors": []
+    },
+    {
+      "name": "Skruvat",
+      "asanaProject": "1215286399570264",
+      "competitors": []
+    },
+    {
+      "name": "Swedish Candy",
+      "asanaProject": "1209138399098148",
+      "competitors": []
+    },
+    {
+      "name": "TurtleWax",
+      "asanaProject": "1209157491892188",
+      "competitors": []
+    },
+    {
+      "name": "VÄLA/NOVA",
+      "asanaProject": "1216036042426317",
+      "competitors": []
+    },
+    {
+      "name": "WD-40",
+      "asanaProject": "1209690679802416",
+      "competitors": []
+    },
+    {
+      "name": "Wunderbaum",
+      "asanaProject": "1209157491892197",
+      "competitors": []
+    }
+  ]
+}

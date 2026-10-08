@@ -1,4 +1,4 @@
-// Tar topp 10 senaste 7 dagarna (engagement, minst 5 000 visningar) ur site/data/videos.json,
+// Tar topp 10 per kund senaste 7 dagarna (engagement, minst 5 000 visningar, bland kundens konkurrenter i config/clients.json),
 // låter Apify AI-beskriva videorna scen för scen och ber Claude förklara vad de handlar om
 // och varför de troligen presterade. Resultatet sparas i site/data/insights.json.
 // Videor som redan analyserats hoppas över, så samma video kostar bara en gång.
@@ -25,16 +25,21 @@ const videosFile = new URL('../site/data/videos.json', import.meta.url);
 const insightsFile = new URL('../site/data/insights.json', import.meta.url);
 
 const { fetchedAt, videos } = JSON.parse(await readFile(videosFile));
+const { clients } = JSON.parse(await readFile(new URL('../config/clients.json', import.meta.url)));
 const insights = await readFile(insightsFile).then((b) => JSON.parse(b)).catch(() => ({ videos: {} }));
 
 const ref = Date.parse(fetchedAt);
-const top = videos
-  .filter((v) => Date.parse(v.posted) >= ref - DAYS * 864e5 && v.views >= MIN_VIEWS)
-  .sort((a, b) => b.er - a.er)
-  .slice(0, 10);
-const missing = top.filter((v) => !insights.videos[v.id]);
+const recent = videos.filter((v) => Date.parse(v.posted) >= ref - DAYS * 864e5 && v.views >= MIN_VIEWS);
+const top = new Map();
+for (const c of clients) {
+  const own = new Set(c.competitors.map((h) => h.toLowerCase()));
+  const best = recent.filter((v) => own.has(v.handle)).sort((a, b) => b.er - a.er).slice(0, 10);
+  for (const v of best) top.set(v.id, v);
+  if (best.length) console.log(`  ${c.name}: ${best.length} videor i topp 10`);
+}
+const missing = [...top.values()].filter((v) => !insights.videos[v.id]);
 
-console.log(`Topp 10 senaste ${DAYS} dagarna: ${top.length} videor, ${missing.length} nya att analysera.`);
+console.log(`Topp 10 per kund senaste ${DAYS} dagarna: ${top.size} unika videor, ${missing.length} nya att analysera.`);
 if (!missing.length) process.exit(0);
 
 // 1. AI-beskrivning av videorna via Apify
