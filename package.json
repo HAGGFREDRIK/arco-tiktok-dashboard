@@ -8,10 +8,12 @@
   "scripts": {
     "fetch": "node --env-file-if-exists=.env scripts/fetch.mjs",
     "dev": "node scripts/serve.mjs",
-    "analyze": "node --env-file-if-exists=.env scripts/analyze.mjs"
+    "analyze": "node --env-file-if-exists=.env scripts/analyze.mjs",
+    "thumbs": "node scripts/thumbs.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.132.1",
+    "sharp": "^0.35.5",
     "zod": "^4.6.5"
   }
 }
