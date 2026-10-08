@@ -20,3 +20,11 @@ Lägg `APIFY_TOKEN` under Settings → Secrets and variables → Actions.
 Kör manuellt under Actions → Hämta TikTok-data → Run workflow.
 
 Kostnad: cirka $3,70 per 1 000 videor (Apify-pris för actorn).
+
+## AI-analys
+
+`npm run analyze` tar topp 10 senaste 7 dagarna (engagement, minst 5 000 visningar),
+låter Apify AI-beskriva videorna (`aiVideoDescription`, $0,0013 per videosekund) och ber
+Claude (`claude-opus-5-5`) förklara vad de handlar om och varför de troligen presterade.
+Resultatet hamnar i `site/data/insights.json`. Redan analyserade videor hoppas över.
+Kräver `ANTHROPIC_API_KEY` som secret i GitHub.

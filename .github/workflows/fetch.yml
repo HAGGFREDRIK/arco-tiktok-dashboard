@@ -16,13 +16,20 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - run: npm ci
       - run: npm run fetch
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      - name: AI-analys av topp 10 senaste 7 dagarna
+        run: npm run analyze
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - name: Committa ny data
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
-          git add site/data/videos.json
+          git add site/data/videos.json site/data/insights.json 2>/dev/null || git add site/data/videos.json
           git diff --cached --quiet || git commit -m "Ny TikTok-data $(date -u +%F)"
           git push
