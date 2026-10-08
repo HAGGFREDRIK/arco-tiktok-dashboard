@@ -1,0 +1,10 @@
+{
+  "name": "arco-tiktok-dashboard",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "fetch": "node --env-file-if-exists=.env scripts/fetch.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}
