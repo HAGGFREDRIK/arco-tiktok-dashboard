@@ -254,7 +254,142 @@
       "described": true,
       "analyzedAt": "2026-10-12T11:58:19.193Z",
       "model": "claude-opus-5-5"
+    },
+    "7697958458846350614": {
+      "topic": "Barebells lottar ut sin julkalender. En man i tomteluva visar upp kalenderlådan och berättar hur man deltar i tävlingen.",
+      "format": "Tävling",
+      "hook": "Redan i första bilden syns en man i tomteluva som håller upp en stor julkalender och pratar direkt i kameran, med textning ord för ord.",
+      "why": "Videon presterade inte bättre i räckvidd. Den fick 22 100 visningar mot kontots median på 29 800. Engagemanget låg däremot på 22,0 % mot normala 5,5 %, alltså ungefär fyra gånger högre. Det drivs av 1 564 kommentarer och 1 095 delningar, vilket tyder på att tävlingsstegen bad tittarna att kommentera, tagga eller dela. Den julkalender som ska vinnas är en eftertraktad säsongsprodukt, och redan i oktober väcker den förväntan inför julen.",
+      "drivers": [
+        "Giveaway med deltagarsteg som ger många kommentarer och delningar",
+        "Eftertraktat och säsongsaktuellt pris i form av julkalendern",
+        "Kort och tydlig presentation direkt till kamera med textning"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:53:34.829Z",
+      "model": "claude-opus-5-5"
+    },
+    "7697244279445490966": {
+      "topic": "En rödhårig man med mustasch testar Redheads nya chips med smak av Jönköpingskebab i ett eget, överdrivet noggrant smaktestsformat: han visar skålen, öppningstekniken och antalet chips han brukar ta innan han smakar och rekommenderar.",
+      "format": "Produktnyhet / smaktest-sketch",
+      "hook": "Mannen går med kameran utomhus och säger direkt att han ska testa Redheads nya chips, vilket ger en tydlig premiss från första sekund.",
+      "why": "Videon nådde färre visningar än kontots median (36 800 mot 52 400), så räckvidden var faktiskt lägre än vanligt. Engagemanget var däremot något högre (9,6 % mot 8,9 %), troligen tack vare den torra, lätt absurda humorn med detaljer som skålens design, öppningsmetoden och '40 till 90 chips per portion', plus en tydlig uppmaning att kommentera om man testat chipsen. Längden på 80 sekunder och den långsamma upptakten innan smakningen kan ha begränsat räckvidden, medan de som stannade kvar var mer benägna att gilla.",
+      "drivers": [
+        "Absurd, torr humor i vardagliga detaljer som skapar igenkänning",
+        "Ny smak med lokal koppling (Jönköpingskebab) som väcker nyfikenhet",
+        "Direkt fråga till publiken som driver kommentarer"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:53:43.292Z",
+      "model": "claude-opus-5-5"
+    },
+    "7696881923418803478": {
+      "topic": "Redhead låter Jönköpingsbor smaka chips med kebabsåssmak på stan och i parken. Lokalbefolkningen bedömer om smaken håller måttet och ”godkänner” dem för Jönköpings räkning.",
+      "format": "Gatuintervju / smaktest",
+      "hook": "En man i skinnjacka säger direkt i mikrofonen att chipsen nästan får honom att gråta, en överdriven och oväntad reaktion som väcker nyfikenhet.",
+      "why": "Videon nådde inte över kontots normala räckvidd (38 800 visningar mot en median på 52 400), men engagemanget låg högre än vanligt (9,6 % mot 8,9 %). Det som sticker ut är delningarna: 756 stycken, nästan 2 % av visningarna. Den lokala vinkeln med Jönköpings egen kebabsås och riktiga invånare som ger sin dom skapar igenkänning och lokal stolthet, vilket får folk att skicka videon till vänner från eller med koppling till Jönköping. Räckvidden begränsades troligen av att den lokala vinkeln främst tilltalar en avgränsad publik.",
+      "drivers": [
+        "Lokal igenkänning och stolthet kring Jönköpings kebabsås driver många delningar",
+        "Äkta, varierade smakreaktioner från vanliga människor i olika åldrar ger trovärdighet",
+        "Stark öppningsreplik med en överdriven känsloreaktion som krok"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:53:53.969Z",
+      "model": "claude-opus-5-5"
+    },
+    "7696074614404861206": {
+      "topic": "Barebells lanserar en ny jul-smak, Lussebulle, en proteinbar med smak av klassisk lussebulle och gul, kladdig fyllning.",
+      "format": "Produktnyhet",
+      "hook": "Direkt i första sekunden hålls den nya röd-vita förpackningen med namnet Lussebulle upp mot en knallröd bakgrund, så tittaren genast ser att det är en ny julsmak.",
+      "why": "Videon fick cirka 13,5 gånger kontots medianvisningar (402 700 mot 29 800) och ett engagemang på 9,1 % mot normala 5,5 %. Den kombinerar en ny smak med stark svensk igenkänning, eftersom lussebullen är en kär jultradition, och avslutas med en lång, tillfredsställande närbild där baren dras isär och den gula fyllningen sträcks ut. Det mycket höga antalet delningar (14 300) tyder på att folk skickade videon till vänner, troligen som tips om julsmaken eller för att den väckte nyfikenhet.",
+      "drivers": [
+        "Ny säsongssmak med stark svensk julkoppling (lussebulle)",
+        "Tillfredsställande närbild där baren dras isär och den kladdiga fyllningen sträcks ut",
+        "Kort och enkel video (14 s) med tydlig produkt mot ren röd bakgrund som delas lätt"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:54:04.628Z",
+      "model": "claude-opus-5-5"
+    },
+    "7696139631762361622": {
+      "topic": "Red Heads nya smak Kebabsås står som ett museiföremål på en piedestal med skylten ”kulturarv, rör ej” och tar en sightseeingtur i sin hemstad. Miljöerna är ett trästatyertroll, en bronsbyst, Husqvarna Garden, vattnet, rådhuset och restaurangen Umami, vilket pekar på Jönköping.",
+      "format": "Produktnyhet med lokal sightseeing",
+      "hook": "En chipspåse på en museipiedestal med texten ”kulturarv, rör ej” framför en stor trolltaskulptur väcker direkt nyfikenhet.",
+      "why": "Videon presterade inte bättre än vanligt. Den fick 29 600 visningar mot kontots median på 52 400, och engagemanget låg på 8,5 % mot normala 8,9 %. Det som sticker ut är delningarna (220, cirka 0,7 % av visningarna). Lokala landmärken och hemstadsstolthet triggar troligen att Jönköpingsbor skickar videon vidare till varandra, men den lokala vinkeln begränsar sannolikt räckvidden utanför regionen. Formatet är dessutom ett statiskt bildspel utan personer eller tydlig utveckling, vilket ger lite att stanna kvar för.",
+      "drivers": [
+        "Lokal igenkänning och hemstadsstolthet driver delningar",
+        "Kul grepp med chips som kulturarv på museipiedestal",
+        "Snäv lokal vinkel och statiskt format håller nere räckvidden"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:54:15.826Z",
+      "model": "claude-opus-5-5"
+    },
+    "7696459813181459735": {
+      "topic": "Två kreatörer (@Mirabäng och @syrrans_priv) spelar ordleken \"Säg samma ord\" i en julversion med Barebells-bars i händerna. Kategorierna är svensk jultradition som Jansson, Kalle Anka, släde och lussebulle, och rätt svar ger priser.",
+      "format": "Lek/utmaning med kreatörssamarbete",
+      "hook": "Texten \"SÄG SAMMA ORD!\", två matchande tjejer i jeansjackor, en tomteluva och en skärm som lovar priser för rätt svar gör direkt klart att det är en lek man kan spela med i.",
+      "why": "Videon fick cirka 30 % fler visningar än kontots median (38 900 mot 29 800) och klart högre engagemang (7,3 % mot 5,5 %). Det som sticker ut är de 426 kommentarerna. Leken bjuder in tittaren att gissa själv, och slutet där de pekar mot kameran och uppmanar till kommentarer omvandlar det till konkret respons. Svensk julig igenkänning och genuina skratt när de matchar eller missar håller kvar tittaren genom alla 46 sekunder, medan delningar och sparningar är låga.",
+      "drivers": [
+        "Interaktiv ordlek med uppmaning att kommentera i slutet",
+        "Igenkännbar svensk jultradition som Jansson, Kalle Anka och lussebulle",
+        "Samarbete med två kreatörer vars kemi och skratt bär videon"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:54:25.439Z",
+      "model": "claude-opus-5-5"
+    },
+    "7696817359239073046": {
+      "topic": "Barebells lanserar sin julkalender med 24 proteinbars. En man i randig tröja presenterar och öppnar kalendern framför en jultematiserad bakgrund.",
+      "format": "Produktnyhet",
+      "hook": "Mannen sitter direkt i bild med en stor grön-vit kalender med rosa rosett och säger att kalendern är tillbaka, så tittaren förstår att det handlar om en efterlängtad säsongsprodukt.",
+      "why": "Videon fick cirka 2,4 gånger kontots medianvisningar (72 500 mot 29 800) och högre engagemang än vanligt (7,0 % mot 5,5 %). En återkommande julkalender är en igenkännbar säsongsnyhet som fans väntar på, och att den lanseras redan i mitten av oktober ger känslan av en tidig nyhet. De många delningarna (753) tyder på att tittare taggar och skickar videon till vänner, troligen för att planera köp eller som presenttips. Det stöds också av uppmaningen \"Vem är taggad?\" och taggningen av en person i texten.",
+      "drivers": [
+        "Återkommande säsongsprodukt som skapar förväntan och igenkänning",
+        "Tydlig unboxing där kalendern öppnas och visar insidan",
+        "Uppmaning till engagemang och taggning som driver delningar"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:54:32.941Z",
+      "model": "claude-opus-5-5"
+    },
+    "7697626625080380694": {
+      "topic": "Jacob Gehrke testar Barebells lussebullebar med sex juliga toppingar, bland annat skinka och senap, köttbullar med rödbetssallad, ris à la Malta, ädelost, riktiga lussebullar och kaviar. Varje kombination får ett betyg från 1 till 10.",
+      "format": "Smaktest/ranking med kreatörssamarbete",
+      "hook": "Han lägger fram förpackade lussebullebars på en skärbräda, och texten lovar en ranking med julfavoriter, vilket väcker nyfikenhet på vilka kombinationer som funkar.",
+      "why": "Videon nådde inte fler visningar än vanligt: 21 900 mot kontots median på 29 800. Engagemanget var däremot klart högre, 6,9 % mot 5,5 %, med många delningar (83) och sparningar (46). De oväntade och delvis provocerande kombinationerna (kaviar, ädelost, rödbetssallad) och de exakta betygen ger igenkänning och diskussionsvärde kring svensk jultradition. Den långa speltiden på 98 sekunder kan ha begränsat räckvidden, medan de som tittade engagerade sig mer.",
+      "drivers": [
+        "Säsongsprodukt kopplad till svensk jultradition och fika",
+        "Rankingformat med oväntade kombinationer och tydliga betyg som bjuder in till att tycka till",
+        "Samarbete med kreatören Jacob Gehrke som personligt ansikte"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:54:41.698Z",
+      "model": "claude-opus-5-5"
+    },
+    "7697925885831187734": {
+      "topic": "Barebells överraskar influencern/författaren Tadros på hans boklansering med presenter: en påse med Barebells-snacks och en rutig chokladadventskalender, som han öppnar framför kameran.",
+      "format": "Influencersamarbete / överraskning",
+      "hook": "En kvinna med ett stort inslaget paket och en blomsteruppsättning säger direkt att hon ska överraska någon som just släppt en bok, och videotexten frågar om @TADROS blev glad.",
+      "why": "Videon presterade inte bättre än vanligt. Den fick cirka 5 700 visningar mot kontots median på 29 800, alltså ungefär en femtedel av normal räckvidd. Engagemanget på 5,5 % ligger däremot exakt på kontots median, så de som såg videon reagerade som vanligt. Den svaga räckvidden beror troligen på en långsam start: det tar 10 sekunder innan Tadros syns och drygt 40 sekunder innan produkterna visas, i en video på 68 sekunder. Det gör att många scrollar vidare tidigt. Igenkänningen är också begränsad till dem som redan känner till Tadros.",
+      "drivers": [
+        "Samarbete med känd person (Tadros) ger äkta glädje och höll engagemanget på normal nivå",
+        "Lång uppbyggnad och sen produktavslöjning (adventskalendern först vid ~56 s) dämpade troligen räckvidden",
+        "Presentöppning med säsongsprodukt (adventskalender) skapar nyfikenhet men kom för sent i klippet"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-19T09:54:51.086Z",
+      "model": "claude-opus-5-5"
     }
   },
-  "updatedAt": "2026-10-12T11:58:19.193Z"
+  "updatedAt": "2026-10-19T09:54:51.086Z"
 }
