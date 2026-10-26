@@ -389,7 +389,157 @@
       "described": true,
       "analyzedAt": "2026-10-19T09:54:51.086Z",
       "model": "claude-opus-5-5"
+    },
+    "7699510587373423894": {
+      "topic": "En burk infrusen i ett isblock börjar \"tina\" med Mariah Carey-liknande höga toner. Det anspelar på den årliga memen om att Mariah Carey \"tinar upp\" inför julsäsongen.",
+      "format": "Trend/meme",
+      "hook": "Ett isblock med en burk inuti och texten om att \"hon tinar\" får tittaren att vänta på att isen ska spricka, vilket sker redan efter tre sekunder.",
+      "why": "Videon nådde inte kontots vanliga räckvidd: 13 500 visningar mot en median på 52 900, alltså ungefär en fjärdedel. Däremot var engagemanget högre än normalt, 9,7 % mot 8,2 %, med många delningar (111) i förhållande till visningarna. Den kända Mariah-memen ger direkt igenkänning för dem som förstår skämtet. Att videon publicerades 22 oktober, före den period då memen brukar ta fart kring 1 november, och att den bygger på att man redan känner till skämtet, kan förklara den begränsade räckvidden.",
+      "drivers": [
+        "Igenkänning av den årliga memen om Mariah Carey som \"tinar\" inför julen",
+        "Mycket kort format (7 s) med tydlig upplösning när isen spricker",
+        "Delbart internskämt som ger högt engagemang men smalare räckvidd"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:06:19.962Z",
+      "model": "claude-opus-5-5"
+    },
+    "7698371328595791126": {
+      "topic": "Redhead lanserar en limited edition-chips med smaken Jönköpings kebabsås. En rosa chipspåse står på en piedestal vid vattnet i Jönköping.",
+      "format": "Produktnyhet",
+      "hook": "Texten om att de tuffaste inte finns i Los Angeles och att någon måste representera Jönköping väcker lokal stolthet direkt, med påsen i bild från första sekunden.",
+      "why": "Videon ligger bara strax över kontots normala nivå: 54 800 visningar mot medianen 52 900. Engagemanget är dock tydligt högre, 9,3 % mot 8,2 %. Den lokala vinkeln gör produkten till något jönköpingsbor vill skicka vidare, vilket syns i de relativt många delningarna (397). Det korta formatet på 8 sekunder och budskapet om en begränsad upplaga skapar dessutom snabb igenkänning och brådska.",
+      "drivers": [
+        "Lokal stolthet och igenkänning kring Jönköping och dess kebabsås",
+        "Limited edition skapar brådska och delningsvilja",
+        "Kort, enkel produktbild med tydligt budskap"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:06:27.057Z",
+      "model": "claude-opus-5-5"
+    },
+    "7698749405289090326": {
+      "topic": "Barebells låter Sveriges P16-landslag (future team) köra en 1v1-turnering på träningsplanen, med Barebells-kartonger som pris till vinnaren.",
+      "format": "Utmaning/turnering med idrottssamarbete",
+      "hook": "Videon öppnar direkt med en 1v1-duell där en spelare dribblar förbi försvararen och skjuter mot mål, så tävlingsmomentet syns redan från första sekunden.",
+      "why": "Videon fick cirka 2,5 gånger kontots medianvisningar (81 300 mot 32 100) och högre engagemang (6,6 % mot 4,7 %). Turneringsformatet med en duell i taget, porträttbilder på spelarna och tydliga vinnare och förlorare ger spänning som får tittarna att stanna kvar genom alla 82 sekunder. Kopplingen till landslaget och taggningen av @Sverige ger trovärdighet och räckvidd utanför Barebells egen publik, vilket också syns i de relativt många delningarna (293).",
+      "drivers": [
+        "Samarbete med Sveriges P16-landslag och taggning av @Sverige",
+        "Tävlingsdramatik i duellform med känslomässiga reaktioner",
+        "Naturlig produktplacering: proteinbarer som turneringspris"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:06:33.458Z",
+      "model": "claude-opus-5-5"
+    },
+    "7699912339503484182": {
+      "topic": "En rödhårig man med mustasch i ett kök svarar på kommentarer om att Redheads inte serverar öl och håller i stället upp en chipspåse med märkets egen sås. Videotexten 'glömde öppna ena ögat' skämtar om hans uttryck i klippet.",
+      "format": "Kommentarssvar / Sketch",
+      "hook": "Mannen står med ena benet uppe på köksbänken och pratar direkt in i kameran, en udda pose som får tittaren att stanna.",
+      "why": "Videon presterade inte bättre än kontots vanliga nivå. Visningarna (52 300) ligger i princip på medianen (52 900) och engagemanget (6,4 %) är tydligt under kontots median på 8,2 %. Formatet är kort och personligt med en igenkännbar frontfigur som svarar på publikens kommentarer, vilket håller räckvidden stabil. Det tunna budskapet om att de har egen sås i stället för öl och en självironisk text räckte däremot inte för att driva extra delningar eller sparningar.",
+      "drivers": [
+        "Igenkännbar rödhårig frontfigur som pratar direkt till kameran",
+        "Svar på publikens kommentarer om ölen skapar dialog",
+        "Mycket kort längd (6 s) gynnar omtittningar"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:06:41.969Z",
+      "model": "claude-opus-5-5"
+    },
+    "7699106676397313302": {
+      "topic": "En gatuintervju i Jönköping där en ung kille, Sipan Mustafa, först förnekar att han äter Redhead, svarar svävande och till slut drar fram ett paket Redhead ur fickan och skrattar.",
+      "format": "Gatuintervju/Sketch",
+      "hook": "Den direkta frågan ”äter du Redhead?” och killens motsägelsefulla svar ”nej… lite” väcker direkt nyfikenhet på vad sanningen är.",
+      "why": "Videon fick nästan 500 000 visningar, ungefär 9–10 gånger kontots median på 52 900, trots att engagemanget (5,9 %) låg under kontots normala 8,2 %. Det korta formatet på 16 sekunder med en tydlig payoff, när han avslöjar paketet, gör att folk tittar klart och tittar om. Den lokala vinkeln (”Jönköpings Version”) och taggningen av en verklig person ger igenkänning och ett starkt delningsvärde (2 604 delningar), vilket troligen spred videon utanför kontots vanliga publik.",
+      "drivers": [
+        "Komisk payoff där förnekelsen avslöjas med produkten i handen",
+        "Lokal igenkänning och taggad person som driver delningar",
+        "Kort, återkommande intervjuformat med produkten naturligt i centrum"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:06:52.069Z",
+      "model": "claude-opus-5-5"
+    },
+    "7699790583514123542": {
+      "topic": "Programledaren Taib Sisic utmanar sex spelare från ett svenskt ungdomslandslag i en crossbar challenge. Alla avbildade spelare missar ribban, medan Taib själv träffar och går iväg med lådan med priser.",
+      "format": "Utmaning/Samarbete",
+      "hook": "Taib springer skrattande mot kameran med mikrofon i handen och presenterar direkt en crossbar challenge mot ungdomslandslaget.",
+      "why": "Videon presterade inte bättre i räckvidd. Med 12 800 visningar ligger den på ungefär 40 % av kontots median (32 100), så formatet nådde inte utanför den befintliga publiken. Engagemanget är däremot något högre än normalt (5,0 % mot 4,7 %), vilket tyder på att de som såg den uppskattade vändningen där programledaren slår landslagsspelarna. Den relativt långa speltiden (52 s) och en lång sekvens med upprepade missar (13–33 s) kan ha försämrat tittartiden och därmed spridningen.",
+      "drivers": [
+        "Samarbete med Taib Sisic och svenskt ungdomslandslag ger igenkänning och trovärdighet",
+        "Underdog-vändning: amatören träffar där alla avbildade landslagsspelare missar, och tar priserna",
+        "Tydlig tävlingsgrafik med kryss och bock som gör utmaningen lätt att följa"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:07:04.202Z",
+      "model": "claude-opus-5-5"
+    },
+    "7700216453445831958": {
+      "topic": "Barebells utser en hockeyspelare, @Mimi, till Man of the Match. Hon intervjuas i en korridor och får en stor Barebells-adventskalender som hon reagerar mycket glatt på.",
+      "format": "Sponsring/Man of the Match",
+      "hook": "Ett kort klipp från en hockeymatch i full arena med publikjubel, följt av texten ”Man of the Match går till …” som bygger upp nyfikenhet på vem som vinner.",
+      "why": "Videon presterade inte bättre än kontots vanliga nivå utan klart sämre: 7 119 visningar mot en median på 32 100, alltså ungefär en femtedel, och engagemanget låg på 4,2 % mot normala 4,7 %. Formatet bygger mest på igenkänning för de som redan följer laget eller spelaren, och produkten, adventskalendern, syns först efter 17 sekunder. Det svaga hooket, korridorsmiljön och en mindre känd person ger låg räckvidd utanför den egna kretsen. Den äkta, glada reaktionen ger ändå hyfsade likes i förhållande till visningarna, men få delningar (2) och sparningar (9) tyder på att innehållet inte spreds vidare.",
+      "drivers": [
+        "Nischad sponsring med hockeylag ger igenkänning främst hos lagets egna fans",
+        "Produktavslöjandet med adventskalendern kommer sent, efter drygt halva videon",
+        "Äkta glädjereaktion ger okej likes men nästan inga delningar"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:07:16.263Z",
+      "model": "claude-opus-5-5"
+    },
+    "7698354216049446166": {
+      "topic": "Barebells lyfter fram sin julkalender i butik genom en utmaning där en ung man ska hitta kalendern i en matbutik på under en minut för att vinna den.",
+      "format": "Butiksutmaning",
+      "hook": "Redan i första scenen presenteras utmaningen med pris och tidsgräns, och frågan ”är du redo?” skapar direkt spänning.",
+      "why": "Videon fick cirka 58 400 visningar, ungefär 1,8 gånger kontots median på 32 100. Tidtagaruret och spurten genom gångarna får tittaren att stanna kvar för att se om han klarar det, och att videon bara är 24 sekunder gynnar troligen tittartiden. Engagemanget (4,0 %) ligger något under kontots median (4,7 %), och med bara 41 kommentarer gav uppmaningen att kommentera litet gensvar. Delningar och sparningar visar ändå att innehållet spreds vidare.",
+      "drivers": [
+        "Tävlingsmoment med tidtagarur som bygger spänning",
+        "Igenkännbar butiksmiljö som visar var produkten finns",
+        "Kort och tempofylld klippning med tydlig upplösning"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:07:24.564Z",
+      "model": "claude-opus-5-5"
+    },
+    "7700519343582383382": {
+      "topic": "En intervjuare med mikrofon stoppar unga män i en mataffär och erbjuder dem två flak Barebells milkshake i utbyte mot varor ur deras matkasse. Videon är ett samarbete med @syrrans_priv.",
+      "format": "Gatuintervju / byteslek",
+      "hook": "Direkt i första sekunden ställs en konkret och lite absurd fråga till en främling i butiken: vad han skulle byta mot två flak milkshake, med frågan textad på skärmen.",
+      "why": "Videon fick cirka 166 000 visningar, ungefär fem gånger kontots median på 32 100, troligen för att gatuintervjuformatet med verkliga reaktioner och ett enkelt byte skapar nyfikenhet och tittartid. Samarbetet med @syrrans_priv ger sannolikt räckvidd utanför Barebells egen publik, och de 413 delningarna tyder på att folk skickar den vidare. Engagemanget på 3,0 % ligger under kontots median på 4,7 %, och kommentarerna är få (37), så videon nådde brett men väckte mindre aktiv interaktion per tittare.",
+      "drivers": [
+        "Gatuintervju med spontana reaktioner från främlingar",
+        "Samarbete med @syrrans_priv som ger ny publik",
+        "Enkel fråga i caption och hook som tittaren själv kan svara på"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:07:31.553Z",
+      "model": "claude-opus-5-5"
+    },
+    "7699468071043386646": {
+      "topic": "Barebells frågar butikskunder och personal i en galleria hur många gram protein det finns i en burk av deras protein soda, och gissningarna spretar från tio gram till ett kilo.",
+      "format": "Gatuintervju / gissningslek",
+      "hook": "En intervjuare med mikrofon och ett pack läskburkar ställer en direkt gissningsfråga, och redan i första sekunderna kommer absurda svar som 900 gram och ett kilo.",
+      "why": "Videon fick cirka 46 800 visningar, ungefär 45 % över kontots median på 32 100, troligen för att det orimliga gissandet är underhållande och väcker nyfikenhet på rätt svar. Det exakta svaret avslöjas aldrig, bara att tolv gram är nära, så tittaren stannar kvar och kanske ser om klippet. Engagemanget var däremot lägre än vanligt (2,5 % mot 4,7 %), vilket tyder på bred räckvidd snarare än att publiken kände sig manad att kommentera, trots att videotexten uppmanar till gissningar.",
+      "drivers": [
+        "Absurda gissningar (900 g, 1 kg) som skapar humor och igenkänning",
+        "Ouppklarat svar som håller kvar tittaren och kan locka till omtittning",
+        "Kort format på 20 s med vardagliga personer i butiksmiljö"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-10-26T10:07:39.166Z",
+      "model": "claude-opus-5-5"
     }
   },
-  "updatedAt": "2026-10-19T09:54:51.086Z"
+  "updatedAt": "2026-10-26T10:07:39.166Z"
 }
