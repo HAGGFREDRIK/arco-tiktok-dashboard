@@ -539,7 +539,157 @@
       "described": true,
       "analyzedAt": "2026-10-26T10:07:39.166Z",
       "model": "claude-opus-5-5"
+    },
+    "7703637850700582167": {
+      "topic": "Red Head lanserar en julmust och visar att den nu finns i butik, med en rödhårig ung man med mustasch som frontfigur.",
+      "format": "Produktnyhet",
+      "hook": "En leende rödhårig man med burken julmust framför sig och en textöverlägg fångar blicken direkt under de första fyra sekunderna.",
+      "why": "Videon fick cirka sex gånger kontots medianvisningar (294 700 mot 49 000) och högre engagemang än normalt (9,6 % mot 7,9 %). En säsongsaktuell lansering av julmust i början av november, kombinerad med en kort och tydlig klipp på 9 sekunder med julmusik och snöflingor, ger både igenkänning och delningsvärde. De många delningarna (2 487) tyder på att tittare skickade nyheten vidare till vänner.",
+      "drivers": [
+        "Säsongsaktuell produktnyhet: julmust i butik",
+        "Rödhårig frontfigur som speglar varumärkets namn",
+        "Kort format med julstämning som uppmuntrar delning"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:51:28.644Z",
+      "model": "claude-opus-5-5"
+    },
+    "7704322340653436182": {
+      "topic": "Redhead visar resan bakom nya chipssmaken Jönköpings Kebabsås: från besök på Pizzeria Alcamo, via smaktester av såsvarianter med bröderna på Savoy, till lanseringsfest på pizzerian och chipsen i butikshyllan.",
+      "format": "Produktnyhet / mini-dokumentär",
+      "hook": "En rödhårig man äter ur en såsburk utanför Pizzeria Alcamo och håller upp en bukett röda rosor, med svensk text som antyder en kärleksförklaring till såsen.",
+      "why": "Videon hamnar exakt på kontots medianvisningar (49 000) och bara strax över median-engagemanget (8,1 % mot 7,9 %), så den presterade i nivå med kontots normala nivå snarare än tydligt bättre. Det som håller engagemanget uppe är den lokala igenkänningen kring en känd kebabsås från en riktig pizzeria i Jönköping, samarbetet med verkliga pizzeriaägare och en berättelse med tydlig början och slut. 94 delningar och 144 sparade tyder på att lokalpubliken taggar varandra och vill hitta produkten.",
+      "drivers": [
+        "Lokal igenkänning: Jönköpings kebabsås och riktiga pizzerior",
+        "Samarbete med pizzerians personal och bröderna på Savoy ger trovärdighet",
+        "Berättelse från idé till butikshylla med lanseringsfest och barnintervju"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:51:36.365Z",
+      "model": "claude-opus-5-5"
+    },
+    "7705072763542785302": {
+      "topic": "Redhead Sverige firar 100 000 följare genom att leta upp sin 100 000:e följare, skicka ett DM om ett års förbrukning chips och sedan överraska henne med en leverans och en gatuintervju.",
+      "format": "Milstolpe/följarfirande",
+      "hook": "Videon öppnar med en skärminspelning av profilen med 100 000 följare och en tackande voiceover, följt av klipp på teamet som firar framför skärmen.",
+      "why": "Videon presterade inte bättre än kontots vanliga nivå: 12 100 visningar är ungefär en fjärdedel av medianen på 49 000. Engagemanget på 8,0 % ligger däremot i nivå med medianen på 7,9 %, vilket tyder på att befintliga följare uppskattade firandet men att innehållet inte nådde ut brett. Milstolpevideor handlar främst om kontot självt och ger svag igenkänning för nya tittare, och den starkaste delen, överraskningen och chipsleveransen, kommer först efter cirka 16 sekunder.",
+      "drivers": [
+        "Stabilt engagemang från befintliga följare som gillar att varumärket firar och belönar en följare",
+        "Belöningsmoment med ett års chips och en verklig följare ger värme och kommentarer",
+        "Begränsad räckvidd eftersom kroken är kontocentrerad och överraskningen kommer sent"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:51:44.444Z",
+      "model": "claude-opus-5-5"
+    },
+    "7704671512644701462": {
+      "topic": "En utmaning på löpband där en man försöker springa en kilometer i 20,1 km/h medan en kvinna hejar och dricker ur en burk. Videon taggar @elisbarlind och @Ida. Texten säger 20,1 km, men i videon är det hastigheten som är 20,1 km/h och sträckan en kilometer.",
+      "format": "Fysisk utmaning",
+      "hook": "Kvinnan utmanar direkt mannen att hänga med i ett extremt löpartempo, och han ställer in 20,1 km/h. Det väcker frågan om han klarar det.",
+      "why": "Videon fick cirka 1,9 gånger kontots medianvisningar (59 400 mot 31 500) och högre engagemang (6,5 % mot 4,5 %). Utmaningen har en tydlig spänningskurva med avståndsmarkörer på skärmen och en utmattad, förvånad reaktion i mål, vilket håller kvar tittaren genom hela den 71 sekunder långa videon. Taggade kreatörer kan ha gett extra räckvidd, och drycken kommer in naturligt som belöning i slutet i stället för att kännas som reklam.",
+      "drivers": [
+        "Konkret siffra (20,1) och 'klarar han det?'-spänning",
+        "Avståndsmarkörer och äkta utmattad reaktion i mål",
+        "Samarbete med taggade kreatörer, produkten som naturlig belöning"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:51:52.844Z",
+      "model": "claude-opus-5-5"
+    },
+    "7704693635547434263": {
+      "topic": "En bakom kulisserna-video från Red Heads fabrik där en anställd visar hur julmusten blandas, kolsyras, fylls på burk, etiketteras och packas på pall, med en programledare med mikrofon som guidar.",
+      "format": "Bakom kulisserna / How it's made",
+      "hook": "Två personer i en stor fabrikshall med mikrofon och texten \"mustigaste must\" lovar att visa hur julmusten tillverkas.",
+      "why": "Videon presterade klart sämre än kontots vanliga nivå: cirka 8 000 visningar mot en median på 49 000 (ungefär 16 %), och engagemanget på 6,4 % ligger under medianen 7,9 %. Ett troligt skäl är att 64 sekunder av processförklaring med maskiner och fackord som \"mottrycksfyllaren\" och \"tråggresaren\" saknar en tydlig spänningskurva, och den enda personliga belöningen, skålen och smakningen, kommer först i slutet. Att videon trots det får 32 sparningar tyder på att en mindre grupp uppskattade det informativa och säsongsaktuella julmustinnehållet, men upplägget lockade inte breda flöden på det sätt som kontots vanliga videor gör.",
+      "drivers": [
+        "Säsongsaktuell julmust och tydligt fabriksfokus ger viss nyfikenhet och sparningar",
+        "Långt och tekniskt förklarande innehåll utan snabb payoff håller inte kvar tittarna",
+        "Starten saknar en stark krok och skålen kommer först i sista sekunderna"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:52:02.401Z",
+      "model": "claude-opus-5-5"
+    },
+    "7705072326471126294": {
+      "topic": "Redhead firar att kontot nått 100 000 följare på TikTok. Personal i orange peruker jublar framför en räknare som slår om till 100 000, och en man i trenchcoat tackar följarna.",
+      "format": "Milstolpe/firande",
+      "hook": "Direkt i bild syns en grupp i orange peruker som räknar ner mot en skärm och exploderar i jubel och konfetti när siffran når 100 000.",
+      "why": "Videon presterade inte bättre än kontots vanliga nivå utan under den: 33 500 visningar mot medianen 49 000, och 6,3 % engagemang mot normala 7,9 %. Ett följarfirande handlar om kontot självt och ger tittare utanför den befintliga publiken lite skäl att stanna eller dela, vilket syns i bara 15 delningar och 34 sparade. De 2 073 likesen tyder ändå på att befintliga följare uppskattade tacket och de igenkännbara orange perukerna.",
+      "drivers": [
+        "Tydlig milstolpe (100 000 följare) med visuell nedräkning och konfetti",
+        "Igenkännbar varumärkesidentitet med orange peruker",
+        "Tackbudskap som främst engagerar redan lojala följare, svag spridning utanför dem"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:52:09.255Z",
+      "model": "claude-opus-5-5"
+    },
+    "7703638821732125974": {
+      "topic": "En rödhårig man häller upp Red Head Julmust och svarar på tittarnas fråga om varför tomten på burken inte fått rött hår: de testade, men då såg man inte att det var en tomte.",
+      "format": "Kommentarssvar / Produktnyhet",
+      "hook": "Undertexten tar direkt upp en fråga som många tittare ställt, varför tomten inte fick rött hår, medan mannen häller upp julmusten.",
+      "why": "Videon fick drygt tre gånger kontots medianvisningar (156 600 mot 49 000). Det beror troligen på att den svarar på en nyfikenhet som publiken själv drivit och levererar poängen torrt på bara 6 sekunder, vilket gör den lätt att se om och dela. Den säsongsaktuella julmusten i början av november och det höga antalet delningar (749) pekar på igenkänning och spridning utanför följarbasen. Engagemanget (4,9 %) ligger under kontots median på 7,9 %, vilket är vanligt när räckvidden når många som inte redan följer kontot.",
+      "drivers": [
+        "Svarar på publikens egen fråga, igenkänning och dialog",
+        "Kort, torr punchline på 6 s som är lätt att dela",
+        "Säsongsaktuell julprodukt med tydlig rödhårig varumärkeskoppling"
+      ],
+      "handle": "redheadsverige",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:52:16.319Z",
+      "model": "claude-opus-5-5"
+    },
+    "7703588874970336534": {
+      "topic": "En dold kamera på Barebells kontor där kollegor en efter en tjuvkikar i en blå presentpåse med lappen ”new bar”, som en teaser inför en ny bar.",
+      "format": "Teaser / dold kamera",
+      "hook": "Text på skärmen frågar hur nyfikna kollegorna är, och direkt syns en mystisk påse märkt ”new bar” som någon genast kikar i.",
+      "why": "Videon presterade inte bättre än kontots vanliga nivå utan sämre: 22 400 visningar mot medianen 31 500 (cirka 30 % lägre) och 3,8 % engagemang mot normala 4,5 %. Konceptet med nyfikna kollegor är lättsamt och igenkännbart, men tittaren får aldrig se vad som finns i påsen, så nyfikenheten byggs upp utan att löna sig. Upplägget upprepar samma scen tre gånger utan stegring. Frågan i videotexten (”Hade ni tjuvkikat?”) och teasern om en ny produkt gav ändå en del kommentarer och delningar, i paritet med varandra (34 vardera).",
+      "drivers": [
+        "Nyfikenhet kring en ny, ej avslöjad produkt",
+        "Igenkännbar kontorssituation med kollegor som tjuvkikar",
+        "Direkt fråga i texten som bjuder in till kommentarer"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:52:24.467Z",
+      "model": "claude-opus-5-5"
+    },
+    "7704347786950675735": {
+      "topic": "Två profiler, @juliaringblom och @Birre.Rahmani, sitter vid ett bord, äter Barebells-bars och försöker gissa varandras ålder genom ledande frågor om studieår, barn och jobb. Upplösningen kommer i slutet, när han gissar att hon är 30 och har rätt.",
+      "format": "Samarbete / Gissningslek",
+      "hook": "Texten på skärmen presenterar en åldersgissning, och direkt kommer en lite fräck fråga: om han är i fyrtioårsåldern.",
+      "why": "Videon presterade klart under kontots normala nivå. Den fick 10 600 visningar mot en median på 31 500, alltså ungefär en tredjedel, och engagemanget var 3,7 % mot normala 4,5 %. Gissningsformatet och de två taggade profilerna borde ha kunnat locka, men klippet är 53 sekunder långt och mittpartiet består av utdragen, delvis förvirrande småprat om skolår och livsfaser. Upplösningen kommer först efter 44 sekunder, så många tittare har troligen hunnit scrolla vidare. Produkten syns bara i bakgrunden när de äter. Tittarna bjuds inte heller in att gissa själva, vilket syns i att det bara blev 9 kommentarer trots att formatet borde väcka diskussion.",
+      "drivers": [
+        "Samarbete med två taggade profiler gav viss räckvidd men inget lyft",
+        "Lång speltid med sen upplösning försvagade tittartiden",
+        "Ingen tydlig uppmaning till tittarna att gissa, därför få kommentarer"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:52:34.149Z",
+      "model": "claude-opus-5-5"
+    },
+    "7705806768210726166": {
+      "topic": "Felicia Sörensen och TADROS tävlar i kockmössor om vem som gör den snyggaste glassen på 20 sekunder, och tittarna uppmanas att rösta i kommentarerna.",
+      "format": "Tävling",
+      "hook": "Redan i första sekunden presenteras utmaningen, två personer med kockmössor och snyggast glass på 20 sekunder, med text i bild och peppig musik, så att tittaren direkt vet vad som står på spel.",
+      "why": "Videon presterade sämre än kontots normala nivå: 17 500 visningar mot medianen 31 500 och 3,4 % engagemang mot 4,5 %. Formatet med kreatörsduell, tidspress och röstning i slutet ger kommentarer (29 st), men glassbygget kopplar svagt till Barebells produkter. Det tydliga slutet, där vinnaren avgörs av tittarna, ger också lite anledning att dela eller spara. Duellupplägget fungerar men behöver troligen starkare produktkoppling eller kändare namn för att nå över kontots vanliga nivå.",
+      "drivers": [
+        "Tävling med 20-sekunderstimer skapar tempo och spänning",
+        "Uppmaning att rösta i kommentarerna driver interaktion",
+        "Två taggade kreatörer, men räckvidden lyfte inte över normalnivån"
+      ],
+      "handle": "barebells",
+      "described": true,
+      "analyzedAt": "2026-11-09T12:52:42.148Z",
+      "model": "claude-opus-5-5"
     }
   },
-  "updatedAt": "2026-10-26T10:07:39.166Z"
+  "updatedAt": "2026-11-09T12:52:42.148Z"
 }
